@@ -1,0 +1,4 @@
+﻿  gpsExample_thread.cpp
+c:\users\cyeh1\documents\visual studio 2015\projects\winpcaptest - copy\winpcaptest\gpsexample_thread.cpp(34): error C2855: command-line option '/source-charset' inconsistent with precompiled header
+c:\users\cyeh1\documents\visual studio 2015\projects\winpcaptest - copy\winpcaptest\gpsexample_thread.cpp(34): error C2855: command-line option '/execution-charset' inconsistent with precompiled header
+c:\users\cyeh1\documents\visual studio 2015\projects\winpcaptest - copy\winpcaptest\gpsexample_thread.cpp(40): fatal error C1083: Cannot open include file: 'Aria.h': No such file or directory
